@@ -11,3 +11,11 @@ header {
     width:60%;
     padding:10px:
 }
+.biopic {
+    position:relative;
+    float:left;
+}
+.bio {
+    position:relative;
+    float:right:
+}
